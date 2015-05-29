@@ -1,0 +1,9 @@
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\bin\Debug\GUIDExtractor.exe.config
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\bin\Debug\GUIDExtractor.exe
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\bin\Debug\GUIDExtractor.pdb
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.csprojResolveAssemblyReference.cache
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.Form1.resources
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.Properties.Resources.resources
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.csproj.GenerateResource.Cache
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.exe
+C:\Users\CS027735\Desktop\GUIDExtractor\GUIDExtractor\obj\Debug\GUIDExtractor.pdb
